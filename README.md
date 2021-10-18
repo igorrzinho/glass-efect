@@ -29,6 +29,6 @@ section {
 
 ````
 ## resultado
-![result]()
+![result](assets/result.png)
 
-## feito por [igorrzinho]()
+## feito por [igorrzinho](https://github.com/igorrzinho/)
